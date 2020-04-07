@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "name": "Brownie",
+      "shortDesc": "Quicks way to cook brownie",
+      "longDesc": "Mix eggs, sugar, cacao and flour. Add some chocolate.",
+      "category": "dessert",
+      "createDate": "2020-04-05 10:10:10",
+      "photo": "https://res.cloudinary.com/glovoapp/w_200,h_200,c_fit,f_auto,q_auto/Products/grotbqgysejunm6gamm1",
+      "id": 1
+    },
+    {
+      "name": "Cheesecakeds",
+      "shortDesc": "Qusdick way to cook cheesecake",
+      "longDesc": "Heatsdf oven to 350 degrees F. Mix graham crumbs, butter and 1/4 cup sugar; press onto bottom of 9-inch springform pan.",
+      "category": "pasta",
+      "createDate": "2020-04-05 18:12:10",
+      "photo": "https://res.cloudinary.com/glovoapp/w_200,h_200,c_fit,f_auto,q_auto/Products/grotbqgysejunm6gamm1",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Carbonara",
+      "category": "pasta",
+      "photo": "https://res.cloudinary.com/glovoapp/w_200,h_200,c_fit,f_auto,q_auto/Products/grotbqgysejunm6gamm1",
+      "shortDesc": "An easy, foolproof recipe for a classic double-crust cherry pie, made with fresh, sweet cherries.",
+      "longDesc": "1 pound spaghetti.2 large egg yolks.1/2 cup heavy cream. 1 tablespoon extra-virgin olive oil.",
+      "createDate": "2020-04-05 08:12:10"
+    }
+  ]
+}

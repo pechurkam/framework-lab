@@ -1,0 +1,44 @@
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+}
+.second-word{
+    color: #EF9C3B;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 40px 20px 40px;
+}
+.header-labels{
+    font-size: 16px;
+    margin-right: 5px;
+}
+.div-add-button{
+    padding-right: 50px;
+}
+.add-button{
+    background-color: #EF9C3B;
+}
+
+.recipes-table{
+    width: 100%;
+    padding: 0 80px;
+    box-sizing: border-box;
+}
+
+.item{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+}
+
+.actions{
+    display: flex;
+    flex-direction: column;
+}
+
+.actions-item{
+    margin-top: 10px;
+}
